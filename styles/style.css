@@ -1,3 +1,44 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Abel', sans-serif;
+}
+
+#new-todo {
+  width: 300px;
+  height: 2em;
+  font-size: 1em;
+
+}
+
+#todoapp {
+  max-width: 720px;
+  margin: 0 auto;
+  /*border: 1px solid black;*/
+  padding: 0;
+}
+
+header {
+  margin: 0 auto;
+  max-width: 500px;
+  text-align: center;
+}
+
+ul {
+  margin-left: 100px;
+  margin-right: 100px;
+  list-style: none;
+  padding-left: 0;
+}
+
+li {
+  font-size: 1.1em;
+  margin: 5px auto;
+}
+
 .completed {
   text-decoration: line-through;
 }
