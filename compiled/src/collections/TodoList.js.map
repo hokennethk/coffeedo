@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "TodoList.js",
+  "sourceRoot": "../../..",
+  "sources": [
+    "src/collections/TodoList.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA;;;EAAM,MAAM,CAAC;;;;;;;uBACX,KAAA,GAAO;;uBAEP,UAAA,GAAY,SAAA;aACV,OAAO,CAAC,GAAR,CAAY,sBAAZ;IADU;;uBAGZ,SAAA,GAAW,SAAA;AACT,aAAO,IAAC,CAAA,KAAD,CAAO;QAAA,SAAA,EAAW,IAAX;OAAP;IADE;;uBAGX,SAAA,GAAW,SAAA;AACT,aAAO,IAAC,CAAA,KAAD,CAAO;QAAA,SAAA,EAAW,KAAX;OAAP;IADE;;;;KATiB,QAAQ,CAAC;AAAvC"
+}

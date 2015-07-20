@@ -1,0 +1,24 @@
+{
+  "name": "todolist",
+  "version": "0.0.1",
+  "authors": [
+    "Kenneth Ho <hokennethk@users.noreply.github.com>"
+  ],
+  "description": "A Basic Todolist app",
+  "main": "index.html",
+  "keywords": [
+    "todolist"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.2.1",
+    "jquery": "~2.1.4"
+  }
+}

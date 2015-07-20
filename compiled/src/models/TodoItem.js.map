@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "TodoItem.js",
+  "sourceRoot": "../../..",
+  "sources": [
+    "src/models/TodoItem.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA;;;EAAM,MAAM,CAAC;;;;;;;uBACX,QAAA,GACE;MAAA,WAAA,EAAa,EAAb;MACA,SAAA,EAAW,KADX;;;uBAGF,MAAA,GAAQ,SAAA;aACN,IAAC,CAAA,GAAD,CAAK,WAAL,EAAkB,CAAC,IAAC,CAAA,GAAD,CAAK,WAAL,CAAnB;IADM;;;;KALoB,QAAQ,CAAC;AAAvC"
+}

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+
+    <link rel="stylesheet" href="styles/style.css">
+  </head>
+  <body>
+    <h1>Todo List</h1>
+    <div id="todoapp">
+      <input id="new-todo" type="text" placeholder="Enter new item">
+    </div>
+
+    <!-- Load Dependencies -->
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="bower_components/underscore/underscore-min.js"></script>
+    <script src="bower_components/backbone/backbone-min.js"></script>
+    <!-- Load scripts -->
+    <script src="compiled/src/models/TodoItem.js"></script>
+    <script src="compiled/src/models/App.js"></script>
+
+    <script src="compiled/src/collections/TodoList.js"></script>
+
+    <script src="compiled/src/views/TodoItemView.js"></script>
+    <script src="compiled/src/views/TodoListView.js"></script>
+    <script src="compiled/src/views/AppView.js"></script>
+
+
+    <script src="compiled/src/main.js"></script>
+
+  </body>
+</html>

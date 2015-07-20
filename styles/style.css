@@ -1,0 +1,7 @@
+.completed {
+  text-decoration: line-through;
+}
+
+.remove {
+  font-size: 0.5rem;
+}
